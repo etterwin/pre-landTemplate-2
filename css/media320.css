@@ -1,0 +1,25 @@
+@media screen and (max-width: 320px) {
+
+    .header-caption {
+      font-size: 25px;
+    }
+
+    .header-img {
+      width: 20%;
+      padding-top: 10px;
+    }
+
+    .container-img {
+      margin-top: 20px;
+      width: 45%;
+      margin-left: -110px;
+    }
+
+    .container__text {
+      width: 70%;
+    }
+
+    .btn {
+      width: 40%;
+    }
+  }

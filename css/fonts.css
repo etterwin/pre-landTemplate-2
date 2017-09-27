@@ -1,0 +1,31 @@
+.wrapper {
+  color: black;
+  font-family: sans-serif;
+}
+
+.header-caption-green {
+  color: #95D20A;
+}
+
+.text {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-big {
+  font-size: 25px;
+  font-weight: bold;
+  padding: 0 10px;
+}
+
+.sentence {
+  font-size: 18px;
+}
+
+.btn {
+  font-size: 18px;
+}
